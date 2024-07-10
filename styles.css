@@ -1,0 +1,22 @@
+/* Cascading style sheet */
+
+/* using style tag */
+/* using inline css */
+/* using external style */
+body {
+  font-family: "Space Grotesk";
+}
+section {
+  margin-top: 30px;
+}
+button {
+  padding: 10px;
+  border: none;
+  background-color: #1a1a1a;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.fa-user {
+  margin-top: 20px;
+}
